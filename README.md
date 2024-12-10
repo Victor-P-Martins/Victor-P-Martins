@@ -40,7 +40,8 @@ Currently, I am leading a **cloud migration project**, transitioning on-premises
 
 ## 🎯 Certifications
 - **AWS Certified Data Engineer – Associate**  
-- **Astronomer Certification for Apache Airflow Fundamentals**  
+- **Astronomer Certification for Apache Airflow Fundamentals**
+- **Astronomer Certification DAG Authoring for Apache Airflow**
 
 ---
 
