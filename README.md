@@ -18,7 +18,7 @@ Currently, I am leading a **cloud migration project**, transitioning on-premises
 ## 🔧 Tech Stack & Expertise
 
 ### Programming & Frameworks
-- **Python**: Pandas, NumPy, PyCaret, Sklearn, Selenium, BeautifulSoup  
+- **Python**: Pandas, NumPy, PyCaret, Sklearn, Selenium, BeautifulSoup, Django
 - **SQL**: PostgreSQL, SQL Server, Redshift  
 
 ### Data Engineering Tools
@@ -84,7 +84,7 @@ Atualmente, lidero um **projeto de migração para a nuvem**, modernizando siste
 ## 🔧 Stack de Tecnologia & Experiência
 
 ### Programação & Frameworks
-- **Python**: Pandas, NumPy, PyCaret, Sklearn, Selenium, BeautifulSoup  
+- **Python**: Pandas, NumPy, PyCaret, Sklearn, Selenium, BeautifulSoup, Django
 - **SQL**: PostgreSQL, SQL Server, Redshift  
 
 ### Ferramentas de Engenharia de Dados
