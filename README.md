@@ -11,8 +11,6 @@
 
 I am a passionate **Data Engineer** with a strong foundation in **Data Science** and a unique career transition from **Civil Engineering**. My goal is to leverage cutting-edge technologies to create scalable systems and data-driven solutions, empowering businesses to make better decisions.
 
-Currently, I am leading a **cloud migration project**, transitioning on-premises systems to a modern, scalable cloud architecture. This involves designing **Data Warehouses**, managing **Data Lakes**, and building **data pipelines** that support critical business needs.
-
 ---
 
 ## 🔧 Tech Stack & Expertise
@@ -22,16 +20,16 @@ Currently, I am leading a **cloud migration project**, transitioning on-premises
 - **SQL**: PostgreSQL, SQL Server, Redshift  
 
 ### Data Engineering Tools
-- **ETL/Orchestration**: Airflow, Dagster, DBT  
+- **ETL/Orchestration**: Dagster, Airflow, DBT  
 - **Data Architecture**: OLAP, OLTP, Data Lakes, Data Warehouses  
-- **Data Quality**: Great Expectations  
+- **Data Quality**: Great Expectations
 - **Data Governance**: OpenMetaData  
 
 ### Cloud & DevOps
-- **AWS**: S3, Lambda, Redshift, VPC, EventBridge  
+- **AWS**: S3, Lambda, Redshift, VPC, EventBridge, Glue, ...
 - **IAC**: Terraform  
-- **Containerization**: Docker  
-- **Version Control**: Git, GitHub  
+- **Containerization**: Docker
+- **Version Control**: Git, GitHub, Gitlab
 
 ### Visualization & Reporting
 - Power BI, Dash Plotly, Streamlit, Metabase  
